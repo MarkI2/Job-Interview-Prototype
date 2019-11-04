@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.icte2000project.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Makerspace Guest\\Desktop\\ITCE Project\\ICTE2000 Project_New\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "ICTE2000 Project [Testing]"
+        }
+      }
+    }
+  ]
+}
